@@ -20,3 +20,5 @@ Click below to check out the original **Deepwoken** on Roblox:
 [![Play Deepwoken](https://tr.rbxcdn.com/180DAY-6d62538593d51c52f053b3f1abd74dfb/768/432/Image/Webp/noFilter)](https://www.roblox.com/games/4111023553/Deepwoken)  
 
 ---
+
+### This project is not affiliated with the official Deepwoken developers
