@@ -10,8 +10,8 @@ Abyssborne is an Unreal Engine 5 port of the Roblox game Deepwoken, a hardcore r
 🤝 Multiplayer & PvP – Team up with allies or engage in intense PvP battles.  
 
 # Deepwoken
-[![Play Deepwoken](https://tr.rbxcdn.com/d47dbf9b2f4f21f4b3a42b4b5edc4fd3-480-270)](https://www.roblox.com/games/4111023553/Deepwoken))](https://www.roblox.com/games/4111023553/Deepwoken)
-![Alt Text](https://tr.rbxcdn.com/180DAY-6d62538593d51c52f053b3f1abd74dfb/768/432/Image/Webp/noFilter)
+[![Play Deepwoken](https://tr.rbxcdn.com/180DAY-6d62538593d51c52f053b3f1abd74dfb/768/432/Image/Webp/noFilter)](https://www.roblox.com/games/4111023553/Deepwoken))](https://www.roblox.com/games/4111023553/Deepwoken)
+;![Alt Text](https://tr.rbxcdn.com/180DAY-6d62538593d51c52f053b3f1abd74dfb/768/432/Image/Webp/noFilter)
 ![Alt Text](https://tr.rbxcdn.com/180DAY-6b90c001c548cc78bebdfd72ba1aa2e6/768/432/Image/Webp/noFilter)
 
 
