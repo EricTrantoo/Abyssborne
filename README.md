@@ -21,4 +21,4 @@ Click below to check out the original **Deepwoken** on Roblox:
 
 ---
 
-### This project is not affiliated with the official Deepwoken developers
+### 📌 This project is not affiliated with the official Deepwoken developers
