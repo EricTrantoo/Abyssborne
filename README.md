@@ -7,9 +7,9 @@ Abyssborne is an **Unreal Engine 5 port** of the Roblox game **Deepwoken**, a ha
 ## 🔥 Key Features  
 ⚔️ **Brutal Combat System** – Master parries, dodges, and precise attacks in skill-based fights.  
 🌍 **Expansive Open World** – Explore treacherous environments filled with secrets, NPCs, and dynamic encounters.  
-🌀 **Perma-Death Mechanics** – Every decision matters as death resets progress, encouraging strategic play.  
+🌀 **Perma-Death Mechanics** – Your soul sinks to the depths, what will you do?  
 🔮 **Unique Magic & Abilities** – Experiment with diverse builds, from elemental magic to melee mastery.  
-⚓ **Naval Exploration** – Traverse vast seas, battle sea monsters, and uncover hidden islands.  
+⚓ **Naval Exploration** – Traverse vast seas, battle sea monsters, and the secrets of the sea.  
 🤝 **Multiplayer & PvP** – Team up with allies or engage in intense PvP battles.  
 
 ---
